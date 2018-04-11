@@ -1,2 +1,5 @@
 # Algorithms-implementation-
-Implementation of the algorithms I find intriguing
+Implementation of the some interesting algorithms
+
+## K- means algorithm ##
+
