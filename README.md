@@ -12,7 +12,11 @@ This is one of the very first algorithms that I was able to comprehend and appre
 
 ## Convolutions ##
 
-A convolution is very useful for signal processing in general. There is a lot of complex mathematical theory available for convolutions. For digital image processing, you don't have to understand all of that. You can use a simple matrix as an image convolution kernel and do some interesting things!
+A convolution is very useful for signal processing in general. There is a lot of complex mathematical theory available for convolutions. 
+
+http://machinelearninguru.com/computer_vision/basics/convolution/image_convolution_1.html
+
+You can use a simple matrix as an image convolution kernel and do some interesting things!
 
 
 
