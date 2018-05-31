@@ -11,3 +11,5 @@ In order to perform convolution on an image, following steps should be taken.
 
 ![alt text](http://machinelearninguru.com/_images/topics/computer_vision/basics/convolution/1.JPG)
 
+Each convolution operation has a kernel which could be a any matrix smaller than the original image in height and width. Each kernel is useful for a spesific task, such as sharpening, blurring, edge detection, and more. 
+
