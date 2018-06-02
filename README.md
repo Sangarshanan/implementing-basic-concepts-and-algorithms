@@ -18,5 +18,12 @@ http://machinelearninguru.com/computer_vision/basics/convolution/image_convoluti
 
 You can use a simple matrix as an image convolution kernel and do some interesting things!
 
+## Deep Dream ##
+
+A base image is used, which is fed to the pre-trained CNN. Then, forward pass is done till a particular layer. Now, to get a sense of what that layer has learned, we need to maximize the activations through that layer.
+
+The gradients of that layer are set equal to the activations from that layer, and then gradient ascent is done on the input image. This maximizes the activations of that layer.
+
+
 
 
