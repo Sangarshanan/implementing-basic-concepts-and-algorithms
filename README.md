@@ -22,7 +22,11 @@ You can use a simple matrix as an image convolution kernel and do some interesti
 
 A base image is used, which is fed to the pre-trained CNN. Then, forward pass is done till a particular layer. Now, to get a sense of what that layer has learned, we need to maximize the activations through that layer.
 
+https://hackernoon.com/dl06-deepdream-with-code-5f735052e21f
+
+
 The gradients of that layer are set equal to the activations from that layer, and then gradient ascent is done on the input image. This maximizes the activations of that layer.
+
 
 However, doing just this much does not produce good images. Various techniques are used to make the resulting image better. Gaussian blurring can be done to make the image smoother.
 One main concept in making images better is the use of octaves. Input image is repeatedly downscaled, and gradient ascent is applied to all the images, and then the result is merged into a single output image.
