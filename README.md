@@ -30,11 +30,8 @@ The gradients of that layer are set equal to the activations from that layer, an
 
 However, doing just this much does not produce good images. Various techniques are used to make the resulting image better. Gaussian blurring can be done to make the image smoother.
 One main concept in making images better is the use of octaves. Input image is repeatedly downscaled, and gradient ascent is applied to all the images, and then the result is merged into a single output image.
+![alt text](https://camo.githubusercontent.com/c45620849e3c05fc1cbf6f4f4786f89c98153159/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f626f6f6b2e6b657261732e696f2f696d672f6368382f64656570647265616d5f70726f636573732e706e67)
 
-Input Image: 
-
-
-Output Image:
 
 
 
