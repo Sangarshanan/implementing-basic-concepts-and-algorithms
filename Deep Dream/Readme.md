@@ -1,4 +1,4 @@
-# Deep Dream
+# Deep Dream ( Getting high with AI)
 
 Deep Dream is an algorithm that locates and alters patterns that it identifies in digital pictures. Then it serves up those radically tweaked images for human eyes to see. The results veer from silly to artistic to nightmarish, depending on the input data and the specific parameters 
 
