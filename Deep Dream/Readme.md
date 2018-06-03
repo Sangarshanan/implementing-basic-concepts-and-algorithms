@@ -13,7 +13,7 @@ It's like it's seeing something, trying to identify what it is. It takes a guess
 
 ## Output Image ##
 
-![alt text](https://ibb.co/cyqE0y)
+![alt text](https://thumb.ibb.co/cyqE0y/After.png)
 
 ### References :
 https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/8.2-deep-dream.ipynb
