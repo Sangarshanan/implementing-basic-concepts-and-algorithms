@@ -6,6 +6,8 @@ In layman's terms, it's basically as if you're playing the game Telephone. One p
 
 It's like it's seeing something, trying to identify what it is. It takes a guess at what it is (using a vastly complex CNN). Then it kind of eggs itself on and says, what do you think you're seeing? You totally got that right. Now let's do it again for what you think you saw. This process is repeated, and the result is massively distorted as a result.
 
+## Input Image ##
+
 ### References :
 https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/8.2-deep-dream.ipynb
 https://www.quora.com/How-does-Google-Deep-Dream-work
