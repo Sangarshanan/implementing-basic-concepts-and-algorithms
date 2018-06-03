@@ -9,10 +9,7 @@ It's like it's seeing something, trying to identify what it is. It takes a guess
 ## Input Image ##
 
 ![alt text](https://thumb.ibb.co/iUJj0y/before.png)
-
-
 ## Output Image ##
-
 ![alt text](https://thumb.ibb.co/cyqE0y/After.png)
 
 ### References :
