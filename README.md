@@ -1,4 +1,4 @@
-# Implementing basic concepts and algorithms
+# Implementing Basic concepts and algorithms
 
 Implementation of the some interesting concepts and algorithms to help understand them better
 
