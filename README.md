@@ -42,6 +42,8 @@ A toolkit for developing and comparing reinforcement learning algorithms.
 
 A car is on a one-dimensional track, positioned between two "mountains". The goal is to drive up the mountain on the right; however, the car's engine is not strong enough to scale the mountain in a single pass. Therefore, the only way to succeed is to drive back and forth to build up momentum.
 
+Gym environment is explored and the car problem is solved without any algorithm.....just common sense
+
 
 
 
