@@ -45,5 +45,12 @@ A car is on a one-dimensional track, positioned between two "mountains". The goa
 Gym environment is explored and the car problem is solved without any algorithm.....just common sense
 
 
+## Mean Encodings ##
+
+Target-based encoding is numerization of categorical variables via target. In this method, we replace the categorical variable with just one new numerical variable and replace each category of the categorical variable with its corresponding probability of the target (if categorical) or average of the target (if numerical). The main drawbacks of this method are its dependency to the distribution of the target, and its lower predictability power compare to the binary encoding method.	
+
+https://medium.com/@sangarshananveera/improve-your-classification-models-using-mean-target-encoding-a3d573df31e8
+
+
 
 
