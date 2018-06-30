@@ -1,4 +1,4 @@
-## Step by Step 
+# Step by Step implementation
 
 
 Let’s look at the step by step building methodology of Neural Network (MLP with one hidden layer, similar to above-shown architecture). At the output layer, we have only one neuron as we are solving a binary classification problem (predict 0 or 1). We could also have two neurons for predicting each of both classes.
