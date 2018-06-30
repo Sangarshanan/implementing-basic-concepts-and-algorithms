@@ -1,3 +1,5 @@
+## Step by Step 
+
 
 Let’s look at the step by step building methodology of Neural Network (MLP with one hidden layer, similar to above-shown architecture). At the output layer, we have only one neuron as we are solving a binary classification problem (predict 0 or 1). We could also have two neurons for predicting each of both classes.
 
@@ -62,4 +64,12 @@ bias at output_layer =bias at output_layer + sum of delta of output_layer at row
 bias at hidden_layer =bias at hidden_layer + sum of delta of output_layer at row-wise * learning_rate   
 bh = bh + sum(d_hiddenlayer, axis=0) * learning_rate
 bout = bout + sum(d_output, axis=0)*learning_rate
+
+
+### Steps from 5 to 11 are known as “Backward Propagation“ ##
+
+One forward and backward propagation iteration is considered as one training cycle. As I mentioned earlier, When do we train second time then update weights and biases are used for forward propagation.
+
+Above, we have updated the weight and biases for hidden and output layer and we have used full batch gradient descent algorithm.
+
 
