@@ -52,5 +52,6 @@ Target-based encoding is numerization of categorical variables via target. In th
 https://medium.com/@sangarshananveera/improve-your-classification-models-using-mean-target-encoding-a3d573df31e8
 
 
+## Neural Network
 
-
+![alt NN](https://www.tutorialspoint.com/artificial_intelligence/images/atypical_ann.jpg)
