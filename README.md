@@ -66,3 +66,6 @@ A neural network consists of layers of interconnected nodes. Each node is a perc
 ## TFIDF 
 
 Using TFIDF and cosine similarity to calculate the similarity between sentences 
+
+
+## Logistic Regression from scratch
