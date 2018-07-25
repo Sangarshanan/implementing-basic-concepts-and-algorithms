@@ -69,3 +69,5 @@ Using TFIDF and cosine similarity to calculate the similarity between sentences
 
 
 ## Logistic Regression from scratch
+
+Solving a classification problem using Logistic regression 
