@@ -70,5 +70,5 @@ Using TFIDF and cosine similarity to calculate the similarity between sentences
 
 ## Logistic Regression from scratch
 
-Implementing a Logistic regression model from scratch for solving a classification problem (One layer NN)
+Implementing a Logistic regression model from scratch for solving a binary classification problem (One layer NN)
 
