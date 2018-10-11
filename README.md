@@ -72,3 +72,8 @@ Using TFIDF and cosine similarity to calculate the similarity between sentences
 
 Implementing a Logistic regression model from scratch for solving a binary classification problem (One layer NN)
 
+## UMAP
+
+Executing the UMAP dimensionality reduction technique 
+
+
