@@ -74,6 +74,6 @@ Implementing a Logistic regression model from scratch for solving a binary class
 
 ## UMAP
 
-Executing the UMAP dimensionality reduction technique 
+Executing the UMAP dimensionality reduction technique. Uniform Manifold Approximation and Projection (UMAP) is a dimension reduction technique that can be used for visualisation similarly to t-SNE
 
 
