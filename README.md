@@ -2,6 +2,13 @@
 
 Implementation of the some interesting concepts and algorithms to help understand them better
 
+## Bird is the word bot
+
+A-well-a bird bird bird, bird is the word 
+
+A-well-a bird bird bird, well-a bird is the word 
+
+
 ## K- means algorithm ##
 
 K means is an unsupervised machine learning algorithm that clusters similar points that are close in an n dimensional space
@@ -80,8 +87,4 @@ Executing the UMAP dimensionality reduction technique. Uniform Manifold Approxim
 
 Very basic scala concepts
 
-## Bird is the word bot
-
-A-well-a bird bird bird, bird is the word 
-A-well-a bird bird bird, well-a bird is the word 
 
