@@ -78,4 +78,10 @@ Executing the UMAP dimensionality reduction technique. Uniform Manifold Approxim
 
 ## Scala Projects 
 
+Very basic scala concepts
+
+## Bird is the word bot
+
+A-well-a bird bird bird, bird is the word 
+A-well-a bird bird bird, well-a bird is the word 
 
