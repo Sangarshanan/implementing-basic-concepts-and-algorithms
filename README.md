@@ -8,6 +8,8 @@ A-well-a bird bird bird, bird is the word
 
 A-well-a bird bird bird, well-a bird is the word 
 
+cause you gotta know the word 
+
 
 ## K- means algorithm ##
 
